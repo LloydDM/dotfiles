@@ -1,0 +1,3 @@
+#! /bin/sh
+
+i3lock -f -i ~/Pictures/lock.png && systemctl suspend
